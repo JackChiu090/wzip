@@ -9,6 +9,7 @@
 # IP6-CIDR: 3
 # USER-AGENT: 9
 # TOTAL: 6492
+# 改編自blackmatrix7
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
