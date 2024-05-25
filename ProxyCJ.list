@@ -1,0 +1,38 @@
+DOMAIN-SUFFIX,linkbio.co,PROXY
+# 短网址
+DOMAIN-SUFFIX,azure.com,PROXY
+# 微软azure
+DOMAIN-SUFFIX,ssllabs.com,PROXY
+# 查网站h2和1.3等
+DOMAIN-SUFFIX,mymypic.net,PROXY
+# JKF 捷克论坛图床
+DOMAIN-SUFFIX,canva.com,PROXY
+# javdb pic
+DOMAIN-SUFFIX,jdbstatic.com,PROXY
+# hy2
+DOMAIN-SUFFIX,hysteria.network,PROXY
+# ht2
+# movies for stremio
+DOMAIN-SUFFIX,stremio.com,PROXY
+DOMAIN-SUFFIX,strem.io,PROXY
+# movies for stremio
+# Claude
+DOMAIN,cdn.usefathom.com,PROXY
+DOMAIN-SUFFIX,anthropic.com,PROXY
+DOMAIN-SUFFIX,claude.ai,PROXY
+# Claude
+DOMAIN-SUFFIX,yandex.com,PROXY
+DOMAIN-SUFFIX,ecosia.org,PROXY
+DOMAIN-SUFFIX,jp-nightlife.com,PROXY
+# 日本老司机
+DOMAIN-SUFFIX,heygen.com,PROXY
+DOMAIN-SUFFIX,fast.com,PROXY
+DOMAIN-SUFFIX,ipinfo.io,PROXY
+# 欧美xx站合集
+DOMAIN-SUFFIX,redbled.com,PROXY
+# 欧美xx站合集
+DOMAIN-SUFFIX,coze.com,PROXY
+# coze AI
+# btsow
+DOMAIN-KEYWORD,btsow,PROXY
+# btsow
