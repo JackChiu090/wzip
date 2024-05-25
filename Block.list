@@ -1,0 +1,34 @@
+# 京东极光快手广告屏蔽
+DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT
+DOMAIN-SUFFIX,open.e.kuaishou.com,REJECT
+DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com,REJECT
+DOMAIN-SUFFIX,mi.gdt.qq.com,REJECT
+DOMAIN-SUFFIX,mon.zijieapi.com,REJECT
+DOMAIN-SUFFIX,mssdk.volces.com,REJECT
+DOMAIN-SUFFIX,im-x.jd.com,REJECT
+DOMAIN-SUFFIX,gdfp.gifshow.com,REJECT
+DOMAIN-SUFFIX,jpush.io,REJECT
+DOMAIN-SUFFIX,jpush.cn,REJECT
+# 京东极光快手广告屏蔽
+# 头条广告
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com,REJECT
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
+# 头条广告
+# btsow
+DOMAIN-SUFFIX,2cnjuh34jbpoint.com,REJECT
+DOMAIN-SUFFIX,bnhtml.com,REJECT
+DOMAIN-SUFFIX,tellme.pw,REJECT
+# btsow
+DOMAIN-SUFFIX,djv99sxoqpv11.cloudfront.net,REJECT
+DOMAIN-SUFFIX,increasinglycockroachpolicy.com,REJECT
+# rardb
+DOMAIN-SUFFIX,notifydisparage.com,REJECT
+# 海盗
+DOMAIN-SUFFIX,iconcardinal.com,REJECT
+DOMAIN-SUFFIX,js.wpadmngr.com,REJECT
+# 猫字幕⬇︎
+DOMAIN-SUFFIX,tr.dopykedges.com,REJECT
+DOMAIN-SUFFIX,dopykedges.com,REJECT
