@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,lijit.com,REJECT
+# btdig廣告屏蔽
 # 京东极光快手广告屏蔽
 DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT
 DOMAIN-SUFFIX,open.e.kuaishou.com,REJECT
