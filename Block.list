@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,histats.com,REJECT
 DOMAIN-SUFFIX,xn--djr21gx2z25l3l5ao7c.cn,REJECT
 DOMAIN-SUFFIX,xn--qrqp0v.cn,REJECT
 DOMAIN-SUFFIX,lijit.com,REJECT
+DOMAIN-SUFFIX,dtscout.com,REJECT
 # btdig廣告屏蔽
 # 京东极光快手广告屏蔽
 DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT
