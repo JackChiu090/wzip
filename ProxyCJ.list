@@ -1,3 +1,5 @@
+# gfw补充
+IP-CIDR,50.7.31.230/32,Proxy
 # Copilot
 HOST-SUFFIX,copilot.microsoft.com,Proxy
 # 防止 bing 地区检测
