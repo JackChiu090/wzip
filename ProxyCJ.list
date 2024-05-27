@@ -1,3 +1,5 @@
+#TED
+DOMAIN-SUFFIX,tedcdn.com,Proxy
 # gfw补充
 IP-CIDR,50.7.31.230/32,Proxy
 # Copilot
