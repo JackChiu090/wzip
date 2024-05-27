@@ -1,3 +1,5 @@
+# Forefront
+HOST-SUFFIX,forefront.ai,Proxy
 # DNS Leak
 HOST-SUFFIX,dnsleaktest.com,Proxy
 HOST-SUFFIX,ipleak.net,Proxy
