@@ -1,3 +1,12 @@
+# DNS Leak
+HOST-SUFFIX,dnsleaktest.com,Proxy
+HOST-SUFFIX,ipleak.net,Proxy
+HOST-SUFFIX,browserleaks.com,Proxy
+HOST-SUFFIX,browserleaks.org,Proxy
+HOST-SUFFIX,vpnunlimited.com,Proxy
+HOST-SUFFIX,whrq.net,Proxy
+# DNS Leak
+# bing
 HOST-SUFFIX,bingapis.com,PROXY
 HOST-SUFFIX,bing.com.cn,PROXY
 HOST-SUFFIX,bingads.com,PROXY
@@ -6,6 +15,7 @@ HOST-SUFFIX,bingapistatistics.com,PROXY
 HOST-SUFFIX,bingsandbox.com,PROXY
 HOST-SUFFIX,bingvisualsearch.com,PROXY
 HOST-SUFFIX,bingworld.com,PROXY
+# bing
 DOMAIN-KEYWORD,plex.tv,PROXY
 DOMAIN-KEYWORD,porn,PROXY
 DOMAIN-KEYWORD,tube,PROXY
