@@ -1,3 +1,7 @@
+# Copilot
+HOST-SUFFIX,copilot.microsoft.com,Proxy
+# 防止 bing 地区检测
+HOST-SUFFIX,location.microsoft.com,Proxy
 # Forefront
 HOST-SUFFIX,forefront.ai,Proxy
 # DNS Leak
