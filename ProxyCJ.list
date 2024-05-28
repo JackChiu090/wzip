@@ -1,5 +1,5 @@
 #TED
-DOMAIN-SUFFIX,tedcdn.com,Proxy
+HOST-SUFFIX,tedcdn.com,Proxy
 # gfw补充
 IP-CIDR,50.7.31.230/32,Proxy
 # Copilot
@@ -26,65 +26,65 @@ HOST-SUFFIX,bingsandbox.com,PROXY
 HOST-SUFFIX,bingvisualsearch.com,PROXY
 HOST-SUFFIX,bingworld.com,PROXY
 # bing
-DOMAIN-KEYWORD,plex.tv,PROXY
-DOMAIN-KEYWORD,porn,PROXY
-DOMAIN-KEYWORD,tube,PROXY
-DOMAIN-SUFFIX,haijiao.pro,PROXY
-DOMAIN-SUFFIX,akile.io,PROXY
-DOMAIN-SUFFIX,rarbggo.to,PROXY
-DOMAIN-SUFFIX,subtitlecat.com,PROXY
-DOMAIN-SUFFIX,subscene.be,PROXY
-DOMAIN-SUFFIX,opensubtitles.org,PROXY
-DOMAIN-SUFFIX,v2rayssr.com,PROXY
-DOMAIN-SUFFIX,reddit.com,PROXY
-DOMAIN-KEYWORD,onlymp3.to,PROXY
-DOMAIN-KEYWORD,xxx,PROXY
-DOMAIN-KEYWORD,jav,PROXY
-DOMAIN-KEYWORD,freeuse,PROXY
-DOMAIN-KEYWORD,adult,PROXY
-DOMAIN-SUFFIX,reddit.com,PROXY
-DOMAIN-SUFFIX,taptap.io,PROXY
-DOMAIN-SUFFIX,departures.to,PROXY
-DOMAIN-SUFFIX,tap.io,PROXY
-DOMAIN-SUFFIX,taptap.tw,PROXY
-DOMAIN-SUFFIX,bulianglin.com,PROXY
-DOMAIN-SUFFIX,linkbio.co,PROXY
+HOST-SUFFIX,plex.tv,PROXY
+HOST-KEYWORD,porn,PROXY
+HOST-KEYWORD,tube,PROXY
+HOST-SUFFIX,haijiao.pro,PROXY
+HOST-SUFFIX,akile.io,PROXY
+HOST-SUFFIX,rarbggo.to,PROXY
+HOST-SUFFIX,subtitlecat.com,PROXY
+HOST-SUFFIX,subscene.be,PROXY
+HOST-SUFFIX,opensubtitles.org,PROXY
+HOST-SUFFIX,v2rayssr.com,PROXY
+HOST-SUFFIX,reddit.com,PROXY
+HOST-SUFFIX,onlymp3.to,PROXY
+HOST-KEYWORD,xxx,PROXY
+HOST-KEYWORD,jav,PROXY
+HOST-KEYWORD,freeuse,PROXY
+HOST-KEYWORD,adult,PROXY
+HOST-SUFFIX,reddit.com,PROXY
+HOST-SUFFIX,taptap.io,PROXY
+HOST-SUFFIX,departures.to,PROXY
+HOST-SUFFIX,tap.io,PROXY
+HOST-SUFFIX,taptap.tw,PROXY
+HOST-SUFFIX,bulianglin.com,PROXY
+HOST-SUFFIX,linkbio.co,PROXY
 # 短网址
-DOMAIN-SUFFIX,azure.com,PROXY
+HOST-SUFFIX,azure.com,PROXY
 # 微软azure
-DOMAIN-SUFFIX,ssllabs.com,PROXY
+HOST-SUFFIX,ssllabs.com,PROXY
 # 查网站h2和1.3等
-DOMAIN-SUFFIX,mymypic.net,PROXY
+HOST-SUFFIX,mymypic.net,PROXY
 # JKF 捷克论坛图床
-DOMAIN-SUFFIX,canva.com,PROXY
+HOST-SUFFIX,canva.com,PROXY
 # javdb pic
-DOMAIN-SUFFIX,jdbstatic.com,PROXY
+HOST-SUFFIX,jdbstatic.com,PROXY
 # hy2
-DOMAIN-SUFFIX,hysteria.network,PROXY
+HOST-SUFFIX,hysteria.network,PROXY
 # ht2
 # movies for stremio
-DOMAIN-SUFFIX,stremio.com,PROXY
-DOMAIN-SUFFIX,strem.io,PROXY
+HOST-SUFFIX,stremio.com,PROXY
+HOST-SUFFIX,strem.io,PROXY
 # movies for stremio
 # Claude
-DOMAIN,cdn.usefathom.com,PROXY
-DOMAIN-SUFFIX,anthropic.com,PROXY
-DOMAIN-SUFFIX,claude.ai,PROXY
+HOST-SUFFIX,cdn.usefathom.com,PROXY
+HOST-SUFFIX,anthropic.com,PROXY
+HOST-SUFFIX,claude.ai,PROXY
 # Claude
-DOMAIN-SUFFIX,yandex.com,PROXY
-DOMAIN-SUFFIX,ecosia.org,PROXY
-DOMAIN-SUFFIX,jp-nightlife.com,PROXY
+HOST-SUFFIX,yandex.com,PROXY
+HOST-SUFFIX,ecosia.org,PROXY
+HOST-SUFFIX,jp-nightlife.com,PROXY
 # 日本老司机
-DOMAIN-SUFFIX,heygen.com,PROXY
-DOMAIN-SUFFIX,fast.com,PROXY
-DOMAIN-SUFFIX,ipinfo.io,PROXY
+HOST-SUFFIX,heygen.com,PROXY
+HOST-SUFFIX,fast.com,PROXY
+HOST-SUFFIX,ipinfo.io,PROXY
 # 欧美xx站合集
-DOMAIN-SUFFIX,redbled.com,PROXY
+HOST-SUFFIX,redbled.com,PROXY
 # 欧美xx站合集
-DOMAIN-SUFFIX,coze.com,PROXY
+HOST-SUFFIX,coze.com,PROXY
 # coze AI
 # btsow
-DOMAIN-KEYWORD,btsow,PROXY
+HOST-KEYWORD,btsow,PROXY
 # btsow
 # 修复 Telegram
 IP-CIDR,149.154.160.0/20,Proxy
