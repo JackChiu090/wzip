@@ -74,7 +74,6 @@ HOST-SUFFIX,claude.ai,PROXY
 # Claude
 HOST-SUFFIX,yandex.com,PROXY
 HOST-SUFFIX,ecosia.org,PROXY
-HOST-SUFFIX,jp-nightlife.com,PROXY
 # 日本老司机
 HOST-SUFFIX,heygen.com,PROXY
 HOST-SUFFIX,fast.com,PROXY
