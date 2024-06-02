@@ -49,6 +49,7 @@ HOST-SUFFIX,tap.io,PROXY
 HOST-SUFFIX,taptap.tw,PROXY
 HOST-SUFFIX,bulianglin.com,PROXY
 HOST-SUFFIX,linkbio.co,PROXY
+HOST-SUFFIX,access.mypikpak.com,PROXY
 # 短网址
 HOST-SUFFIX,azure.com,PROXY
 # 微软azure
