@@ -12,8 +12,8 @@ DOMAIN-SUFFIX,jpush.cn,REJECT
 # 京东极光快手广告屏蔽
 # 头条广告
 DOMAIN-SUFFIX,toblog.ctobsnssdk.com,REJECT
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
+#DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
+#DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 # 头条广告
 # btsow
