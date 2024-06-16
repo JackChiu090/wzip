@@ -1,33 +1,8 @@
-
+#其他
 HOST-SUFFIX,microsoftonline.com,Proxy
-HOST-SUFFIX,perplexity.ai,Proxy
 HOST-SUFFIX,sxyprn.com,Proxy
 HOST-SUFFIX,itangtalk.com,Proxy
 HOST-SUFFIX,analvids.com,Proxy
-#TED
-HOST-SUFFIX,tedcdn.com,Proxy
-# gfw补充
-IP-CIDR,50.7.31.230/32,Proxy
-# Forefront
-HOST-SUFFIX,forefront.ai,Proxy
-# DNS Leak
-HOST-SUFFIX,dnsleaktest.com,Proxy
-HOST-SUFFIX,ipleak.net,Proxy
-HOST-SUFFIX,browserleaks.com,Proxy
-HOST-SUFFIX,browserleaks.org,Proxy
-HOST-SUFFIX,vpnunlimited.com,Proxy
-HOST-SUFFIX,whrq.net,Proxy
-# DNS Leak
-# bing
-HOST-SUFFIX,bingapis.com,PROXY
-HOST-SUFFIX,bing.com.cn,PROXY
-HOST-SUFFIX,bingads.com,PROXY
-HOST-SUFFIX,bingagencyawards.com,PROXY
-HOST-SUFFIX,bingapistatistics.com,PROXY
-HOST-SUFFIX,bingsandbox.com,PROXY
-HOST-SUFFIX,bingvisualsearch.com,PROXY
-HOST-SUFFIX,bingworld.com,PROXY
-# bing
 HOST-SUFFIX,plex.tv,PROXY
 HOST-KEYWORD,porn,PROXY
 HOST-KEYWORD,tube,PROXY
@@ -57,6 +32,30 @@ HOST-SUFFIX,heygen.com,PROXY
 HOST-SUFFIX,fast.com,PROXY
 HOST-SUFFIX,ipinfo.io,PROXY
 HOST-SUFFIX,access.mypikpak.com,PROXY
+#其他
+#TED
+HOST-SUFFIX,tedcdn.com,Proxy
+# gfw补充
+IP-CIDR,50.7.31.230/32,Proxy
+# Forefront
+HOST-SUFFIX,forefront.ai,Proxy
+# DNS Leak
+HOST-SUFFIX,dnsleaktest.com,Proxy
+HOST-SUFFIX,ipleak.net,Proxy
+HOST-SUFFIX,browserleaks.com,Proxy
+HOST-SUFFIX,browserleaks.org,Proxy
+HOST-SUFFIX,vpnunlimited.com,Proxy
+HOST-SUFFIX,whrq.net,Proxy
+# DNS Leak
+# bing
+HOST-SUFFIX,bing.com.cn,PROXY
+HOST-SUFFIX,bingads.com,PROXY
+HOST-SUFFIX,bingagencyawards.com,PROXY
+HOST-SUFFIX,bingapistatistics.com,PROXY
+HOST-SUFFIX,bingsandbox.com,PROXY
+HOST-SUFFIX,bingvisualsearch.com,PROXY
+HOST-SUFFIX,bingworld.com,PROXY
+# bing
 # 短网址
 HOST-SUFFIX,azure.com,PROXY
 # 微软azure
