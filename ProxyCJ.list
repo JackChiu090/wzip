@@ -8,10 +8,6 @@ HOST-SUFFIX,analvids.com,Proxy
 HOST-SUFFIX,tedcdn.com,Proxy
 # gfw补充
 IP-CIDR,50.7.31.230/32,Proxy
-# Copilot
-HOST-SUFFIX,copilot.microsoft.com,Proxy
-# 防止 bing 地区检测
-HOST-SUFFIX,location.microsoft.com,Proxy
 # Forefront
 HOST-SUFFIX,forefront.ai,Proxy
 # DNS Leak
@@ -55,6 +51,11 @@ HOST-SUFFIX,tap.io,PROXY
 HOST-SUFFIX,taptap.tw,PROXY
 HOST-SUFFIX,bulianglin.com,PROXY
 HOST-SUFFIX,linkbio.co,PROXY
+HOST-SUFFIX,yandex.com,PROXY
+HOST-SUFFIX,ecosia.org,PROXY
+HOST-SUFFIX,heygen.com,PROXY
+HOST-SUFFIX,fast.com,PROXY
+HOST-SUFFIX,ipinfo.io,PROXY
 HOST-SUFFIX,access.mypikpak.com,PROXY
 # 短网址
 HOST-SUFFIX,azure.com,PROXY
@@ -78,12 +79,6 @@ HOST-SUFFIX,cdn.usefathom.com,PROXY
 HOST-SUFFIX,anthropic.com,PROXY
 HOST-SUFFIX,claude.ai,PROXY
 # Claude
-HOST-SUFFIX,yandex.com,PROXY
-HOST-SUFFIX,ecosia.org,PROXY
-# 日本老司机
-HOST-SUFFIX,heygen.com,PROXY
-HOST-SUFFIX,fast.com,PROXY
-HOST-SUFFIX,ipinfo.io,PROXY
 # 欧美xx站合集
 HOST-SUFFIX,redbled.com,PROXY
 # 欧美xx站合集
