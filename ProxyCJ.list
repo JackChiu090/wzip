@@ -34,6 +34,14 @@ HOST-SUFFIX,fast.com,PROXY
 HOST-SUFFIX,ipinfo.io,PROXY
 HOST-SUFFIX,access.mypikpak.com,PROXY
 #其他
+#刨除另外一个proxy已经有的gemini域名
+HOST,ai.google.dev,PROXY
+HOST-SUFFIX,deepmind.google,PROXY
+HOST-SUFFIX,generativeai.google,PROXY
+HOST-KEYWORD,colab,PROXY
+HOST-KEYWORD,developerprofiles,PROXY
+HOST-KEYWORD,generativelanguage,PROXY
+#刨除另外一个proxy已经有的gemini域名
 #TED
 HOST-SUFFIX,tedcdn.com,Proxy
 # gfw补充
