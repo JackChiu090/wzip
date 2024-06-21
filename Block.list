@@ -1,4 +1,5 @@
 # 京东极光快手广告屏蔽
+DOMAIN-SUFFIX,at4.doubanio.com,REJECT
 DOMAIN-SUFFIX,eclick.baidu.com,REJECT
 DOMAIN-SUFFIX,cn.bing.com,REJECT
 DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT
