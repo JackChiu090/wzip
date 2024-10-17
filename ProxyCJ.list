@@ -38,6 +38,7 @@ HOST-SUFFIX,heygen.com,PROXY
 HOST-SUFFIX,fast.com,PROXY
 HOST-SUFFIX,ipinfo.io,PROXY
 HOST-SUFFIX,access.mypikpak.com,PROXY
+HOST-SUFFIX,access.mypikpaknet,PROXY
 #其他
 #刨除另外一个proxy已经有的gemini域名
 HOST,ai.google.dev,PROXY
