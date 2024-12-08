@@ -1,4 +1,11 @@
 # 京东极光快手广告屏蔽
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,REJECT
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com,REJECT
+DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com,REJECT
+DOMAIN-SUFFIX,open.e.kuaishou.cn,REJECT
+DOMAIN-SUFFIX,*ad.adukwai.com,REJECT
+DOMAIN-SUFFIX,v4-lm.adukwai.com,REJECT
+DOMAIN-SUFFIX,api.liuliangguo.com,REJECT
 DOMAIN-SUFFIX,at4.doubanio.com,REJECT
 DOMAIN-SUFFIX,lupic.cdn.bcebos.com,REJECT
 DOMAIN-SUFFIX,cn.bing.com,REJECT
