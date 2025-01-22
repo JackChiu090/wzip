@@ -1,4 +1,4 @@
-# ---------下面是屏蔽域名
+[Rule]
 # btsow
 DOMAIN-SUFFIX,2cnjuh34jbpoint.com,REJECT
 DOMAIN-SUFFIX,bnhtml.com,REJECT
@@ -52,4 +52,3 @@ DOMAIN-SUFFIX,open.e.kuaishou.cn,REJECT
 DOMAIN-SUFFIX,*ad.adukwai.com,REJECT
 DOMAIN-SUFFIX,v4-lm.adukwai.com,REJECT
 DOMAIN-SUFFIX,api.liuliangguo.com,REJECT
-# ---------以上是屏蔽域名
