@@ -54,3 +54,6 @@ DOMAIN-SUFFIX,v4-lm.adukwai.com,REJECT
 DOMAIN-SUFFIX,api.liuliangguo.com,REJECT
 DOMAIN-SUFFIX,youxinhuyu.cn,REJECT
 DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com,REJECT
+# 快手
+DOMAIN-SUFFIX,adkwai.com,REJECT
+DOMAIN-SUFFIX,adukwai.com,REJECT
