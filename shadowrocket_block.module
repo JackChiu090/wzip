@@ -52,3 +52,4 @@ DOMAIN-SUFFIX,open.e.kuaishou.cn,REJECT
 DOMAIN-SUFFIX,*ad.adukwai.com,REJECT
 DOMAIN-SUFFIX,v4-lm.adukwai.com,REJECT
 DOMAIN-SUFFIX,api.liuliangguo.com,REJECT
+DOMAIN-SUFFIX,youxinhuyu.cn,REJECT
