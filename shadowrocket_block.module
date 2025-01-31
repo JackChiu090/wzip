@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,glabsuckoupy.net,REJECT
 DOMAIN-SUFFIX,sushainsihogner.net,REJECT
 DOMAIN-SUFFIX,sapsobughoatch.net,REJECT
 DOMAIN-SUFFIX,voawheevie.net,REJECT
+DOMAIN-SUFFIX,thoufoophuch.net,REJECT
 # 猫字幕
 # 京东极光快手广告屏蔽
 DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT
