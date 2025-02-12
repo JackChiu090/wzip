@@ -14,8 +14,11 @@ DOMAIN-SUFFIX,iconcardinal.com,REJECT
 DOMAIN-SUFFIX,js.wpadmngr.com,REJECT
 # 海盗
 # 猫字幕
+DOMAIN-SUFFIX,adnxs.com,REJECT
+DOMAIN-SUFFIX,popads.net,REJECT
+DOMAIN-SUFFIX,propellerads.com,REJECT  
 DOMAIN-SUFFIX,ceetomouwique.net,REJECT
-DOMAIN-SUFFIX,phahifoobsie.net,REJECT
+DOMAIN-SUFFIX,phahifoobsie.net,REJECT  
 DOMAIN-SUFFIX,aikoxouftuxoun.net,REJECT
 DOMAIN-SUFFIX,seefaurerowizoa.net,REJECT
 DOMAIN-SUFFIX,doubleclick.net,REJECT
