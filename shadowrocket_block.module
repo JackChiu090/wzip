@@ -1,8 +1,7 @@
 [Rule]
 # btsow
 DOMAIN-SUFFIX,2cnjuh34jbpoint.com,REJECT
-DOMAIN-SUFFIX,bnhtml.com,REJECT  
-DOMAIN-SUFFIX,tellme.pw,REJECT
+DOMAIN-SUFFIX,bnhtml.com,REJECT
 DOMAIN-SUFFIX,djv99sxoqpv11.cloudfront.net,REJECT  
 DOMAIN-SUFFIX,increasinglycockroachpolicy.com,REJECT
 # btsow
