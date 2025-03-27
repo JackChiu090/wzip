@@ -1,7 +1,8 @@
 [Rule]
+DOMAIN-SUFFIX,juicyads.com,REJECT
 # btsow
 DOMAIN-SUFFIX,2cnjuh34jbpoint.com,REJECT
-DOMAIN-SUFFIX,bnhtml.com,REJECT
+DOMAIN-SUFFIX,bnhtml.com,REJECT  
 DOMAIN-SUFFIX,djv99sxoqpv11.cloudfront.net,REJECT  
 DOMAIN-SUFFIX,increasinglycockroachpolicy.com,REJECT
 # btsow
@@ -38,7 +39,7 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,REJECT
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com,REJECT
 DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com,REJECT
-DOMAIN-SUFFIX,open.e.kuaishou.cn,REJECT
+DOMAIN-SUFFIX,open.e.kuaishou.cn,REJECT  
 DOMAIN-SUFFIX,*ad.adukwai.com,REJECT
 DOMAIN-SUFFIX,v4-lm.adukwai.com,REJECT
 DOMAIN-SUFFIX,api.liuliangguo.com,REJECT
