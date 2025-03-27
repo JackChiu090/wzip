@@ -1,4 +1,5 @@
 [Rule]
+# 字幕猫里的广告
 DOMAIN-SUFFIX,juicyads.com,REJECT
 # btsow
 DOMAIN-SUFFIX,2cnjuh34jbpoint.com,REJECT
