@@ -43,10 +43,12 @@ DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-KEYWORD,googlevideo
+DOMAIN-KEYWORD,youtubekids
+DOMAIN-SUFFIX,googleapis.com  
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
-USER-AGENT,*youtube*
+USER-AGENT,*youtube*  
 USER-AGENT,YouTube*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtube*
