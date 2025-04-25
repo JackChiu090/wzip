@@ -1,7 +1,4 @@
-# NAME: ProxyLite
-# AUTHOR: blackmatrix7
-# REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-24 02:14:59
+# UPDATED: 2025-04-24 02:14:59  
 # DOMAIN: 23
 # DOMAIN-KEYWORD: 20
 # DOMAIN-SUFFIX: 842
@@ -430,7 +427,6 @@ DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,mycnnews.com
 DOMAIN-SUFFIX,myfontastic.com
-DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,myteamspeak.com
