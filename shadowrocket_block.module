@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,js.wpadmngr.com,REJECT
 # 海盗
 # 猫字幕
 IP-CIDR,88.85.94.0/24,Reject
+DOMAIN-SUFFIX,tartlyabamp.com,Reject
 # 猫字幕
 # 京东极光快手广告屏蔽
 DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT
