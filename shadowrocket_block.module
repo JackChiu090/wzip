@@ -1,6 +1,9 @@
 [Rule]
 # 老外字幕里的广告
-DOMAIN-SUFFIX,juicyads.com,REJECT
+DOMAIN-SUFFIX,juicyads.com,REJECT  
+DOMAIN-SUFFIX,magsrv.com,REJECT
+DOMAIN-SUFFIX,jads.co,REJECT
+DOMAIN-SUFFIX,tsyndicate.com,REJECT
 # btsow
 DOMAIN-SUFFIX,2cnjuh34jbpoint.com,REJECT
 DOMAIN-SUFFIX,bnhtml.com,REJECT  
