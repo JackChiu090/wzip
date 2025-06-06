@@ -1,34 +1,13 @@
+# NAME: Google
 # AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-03-27 02:12:21
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 690
-# IP-CIDR: 5
-# USER-AGENT: 3
-# TOTAL: 704
-# gemini
-DOMAIN,ai.google.dev
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,makersuite.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google  
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
-# gemini
+# UPDATED: 2025-06-06 09:15:10
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,1ucrs.com
 DOMAIN-SUFFIX,265.com
 DOMAIN-SUFFIX,2mdn-cn.net
-DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,2mdn.net  
 DOMAIN-SUFFIX,466453.com
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,adgoogle.net
@@ -80,18 +59,7 @@ DOMAIN-SUFFIX,blink.org
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,blogspot.cn
-DOMAIN-SUFFIX,blogspot.co.at
-DOMAIN-SUFFIX,blogspot.co.id
-DOMAIN-SUFFIX,blogspot.co.il
-DOMAIN-SUFFIX,blogspot.co.ke
-DOMAIN-SUFFIX,blogspot.co.nz
-DOMAIN-SUFFIX,blogspot.co.uk
-DOMAIN-SUFFIX,blogspot.co.za
 DOMAIN-SUFFIX,blogspot.com
-DOMAIN-SUFFIX,blogspot.hk
-DOMAIN-SUFFIX,blogspot.sg
-DOMAIN-SUFFIX,blogspot.tw
 DOMAIN-SUFFIX,brocaproject.com
 DOMAIN-SUFFIX,brotli.org
 DOMAIN-SUFFIX,bumpshare.com
@@ -213,15 +181,8 @@ DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,google-analytics-cn.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-syndication.com
-DOMAIN-SUFFIX,google.berlin
-DOMAIN-SUFFIX,google.cn
-DOMAIN-SUFFIX,google.com.sg
-DOMAIN-SUFFIX,google.com.tw
-DOMAIN-SUFFIX,google.dev
-DOMAIN-SUFFIX,google.net
-DOMAIN-SUFFIX,google.sg
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,google.ventures
-DOMAIN-SUFFIX,google.vg
 DOMAIN-SUFFIX,googleacquisitionmigration.com
 DOMAIN-SUFFIX,googleadapis.com
 DOMAIN-SUFFIX,googleadservices-cn.com
