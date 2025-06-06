@@ -1,9 +1,8 @@
 # NAME: ProxyLite
-# AUTHOR: blackmatrix7
-# UPDATED: 2025-06-01 02:15:23
+# UPDATED: 2025-06-06 09:17:51
 # DOMAIN: 23
 # DOMAIN-KEYWORD: 20
-# DOMAIN-SUFFIX: 841
+# DOMAIN-SUFFIX: 842
 # IP-CIDR: 90
 # USER-AGENT: 6
 # TOTAL: 981
@@ -73,7 +72,7 @@ DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,api.tiktokv.com
-DOMAIN-SUFFIX,apk-dl.com  
+DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,appdownloader.net
@@ -113,7 +112,7 @@ DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.us
-DOMAIN-SUFFIX,bintray.com  
+DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.ly
