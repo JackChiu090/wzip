@@ -12,3 +12,5 @@ DOMAIN,p44-fmfmobile.icloud.com
 DOMAIN,p44-fmf.icloud.com
 DOMAIN,p44-fmip.icloud.com
 DOMAIN,p44-fmipmobile.icloud.com
+# Apple IP
+IP-CIDR,17.0.0.0/8,no-resolve
