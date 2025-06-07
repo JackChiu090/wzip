@@ -5,6 +5,9 @@ DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
 # Apple Intelligence
 DOMAIN-KEYWORD,apple-relay
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,guzzoni.apple.com  
 # Apple FindMyDevice
 DOMAIN,humb.apple.com
 DOMAIN,fmipalservice.icloud.com
@@ -18,7 +21,7 @@ IP-CIDR,17.0.0.0/8,no-resolve
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,icloud.com.akadns.net
 DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-cloudkit.com  
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,cdn-apple.com
