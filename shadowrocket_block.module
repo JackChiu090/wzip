@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,iconcardinal.com,REJECT
 DOMAIN-SUFFIX,js.wpadmngr.com,REJECT
 # 海盗
 # 猫字幕
-#IP-CIDR,88.85.94.0/24,Reject
+#IP-CIDR,139.45.195.12/32,Reject
 DOMAIN-SUFFIX,bvtpk.com,Reject  
 DOMAIN-SUFFIX,googletagmanager.com,Reject
 DOMAIN-SUFFIX,p2yn.com,Reject
