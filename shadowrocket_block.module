@@ -23,9 +23,10 @@ DOMAIN-SUFFIX,js.wpadmngr.com,REJECT
 DOMAIN-SUFFIX,bvtpk.com,Reject  
 DOMAIN-SUFFIX,googletagmanager.com,Reject
 DOMAIN-SUFFIX,p2yn.com,Reject
-猫字幕
+DOMAIN-SUFFIX,dowabledecil.com,Reject
+猫字
 # 京东极光快手广告屏蔽
-DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT
+DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT  
 DOMAIN-SUFFIX,open.e.kuaishou.com,REJECT
 DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com,REJECT
 DOMAIN-SUFFIX,mi.gdt.qq.com,REJECT
