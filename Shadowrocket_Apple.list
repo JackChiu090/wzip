@@ -9,24 +9,24 @@ DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,guzzoni.apple.com  
 # Apple FindMyDevice
-DOMAIN,humb.apple.com
-DOMAIN,fmipalservice.icloud.com
-DOMAIN,p44-fmfmobile.icloud.com
-DOMAIN,p44-fmf.icloud.com
-DOMAIN,p44-fmip.icloud.com
-DOMAIN,p44-fmipmobile.icloud.com
+# DOMAIN,humb.apple.com
+# DOMAIN,fmipalservice.icloud.com
+# DOMAIN,p44-fmfmobile.icloud.com
+# DOMAIN,p44-fmf.icloud.com
+# DOMAIN,p44-fmip.icloud.com
+# DOMAIN,p44-fmipmobile.icloud.com
 # Apple IP
-IP-CIDR,17.0.0.0/8,no-resolve
+# IP-CIDR,17.0.0.0/8,no-resolve
 # Apple API
-DOMAIN-KEYWORD,apple.com.akadns.net
-DOMAIN-KEYWORD,icloud.com.akadns.net
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple-cloudkit.com  
-DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,appsto.re
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
+# DOMAIN-KEYWORD,apple.com.akadns.net
+# DOMAIN-KEYWORD,icloud.com.akadns.net
+# DOMAIN-SUFFIX,aaplimg.com
+# DOMAIN-SUFFIX,apple-cloudkit.com  
+# DOMAIN-SUFFIX,apple-mapkit.com
+# DOMAIN-SUFFIX,appsto.re
+# DOMAIN-SUFFIX,cdn-apple.com
+# DOMAIN-SUFFIX,icloud.com
+# DOMAIN-SUFFIX,icloud-content.com
+# DOMAIN-SUFFIX,itunes.com
+# DOMAIN-SUFFIX,me.com
+# DOMAIN-SUFFIX,mzstatic.com
