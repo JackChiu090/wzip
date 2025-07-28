@@ -5,12 +5,6 @@ DOMAIN-SUFFIX,magsrv.com,REJECT
 DOMAIN-SUFFIX,jads.co,REJECT
 DOMAIN-SUFFIX,tsyndicate.com,REJECT
 DOMAIN-SUFFIX,trcktr.com,REJECT
-# btsow
-DOMAIN-SUFFIX,2cnjuh34jbpoint.com,REJECT
-DOMAIN-SUFFIX,bnhtml.com,REJECT  
-DOMAIN-SUFFIX,djv99sxoqpv11.cloudfront.net,REJECT  
-DOMAIN-SUFFIX,increasinglycockroachpolicy.com,REJECT
-# btsow
 # rardb
 DOMAIN-SUFFIX,notifydisparage.com,REJECT
 # rardb
