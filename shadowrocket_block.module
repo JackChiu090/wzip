@@ -38,9 +38,10 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,adim.pinduoduo.com,REJECT 
 DOMAIN-SUFFIX,mon11-misc.fqnovel.com,reject  
+DOMAIN-SUFFIX,mssdk3-normal-lq.zijieapi.com,reject
 # 头条广告
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,REJECT    
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com,REJECT  
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com,REJECT    
 DOMAIN-SUFFIX,tnc3-alisc1.zijieapi.com,REJECT
 DOMAIN-SUFFIX,open.e.kuaishou.cn,REJECT  
 DOMAIN-SUFFIX,*ad.adukwai.com,REJECT
