@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,jads.co,REJECT
 DOMAIN-SUFFIX,astronautlividlyreformer.com,REJECT
 DOMAIN-SUFFIX,imagedelivery.net,REJECT
 DOMAIN-SUFFIX,tsyndicate.com,REJECT
+DOMAIN-SUFFIX,udzpel.com,REJECT
+DOMAIN-SUFFIX,otices.com,REJECT
 # rardb
 DOMAIN-SUFFIX,notifydisparage.com,REJECT
 # rardb
