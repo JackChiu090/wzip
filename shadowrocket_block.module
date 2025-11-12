@@ -2,6 +2,8 @@
 # 老外字幕里的广告
 DOMAIN-SUFFIX,hotbkegora.today,REJECT
 DOMAIN-SUFFIX,jads.co,REJECT
+DOMAIN-SUFFIX,astronautlividlyreformer.com,REJECT
+DOMAIN-SUFFIX,imagedelivery.net,REJECT
 # rardb
 DOMAIN-SUFFIX,notifydisparage.com,REJECT
 # rardb
