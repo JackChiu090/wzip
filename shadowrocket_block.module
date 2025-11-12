@@ -1,5 +1,6 @@
 [Rule]
 # 老外字幕里的广告
+DOMAIN-SUFFIX,hotbkegora.today,REJECT
 # rardb
 DOMAIN-SUFFIX,notifydisparage.com,REJECT
 # rardb
