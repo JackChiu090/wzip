@@ -18,11 +18,10 @@ DOMAIN-SUFFIX,js.wpadmngr.com,REJECT
 # 海盗
 # 猫字幕
 #IP-CIDR,139.45.195.12/32,Reject
-DOMAIN-SUFFIX,bvtpk.com,Reject    
-DOMAIN-SUFFIX,googletagmanager.com,Reject
-DOMAIN-SUFFIX,cdn.perfops.net,Reject
-DOMAIN-SUFFIX,p2yn.com,Reject  
-DOMAIN-SUFFIX,dowabledecil.com,Reject
+汇总外部域名：
+DOMAIN-SUFFIX,llvpn.com,REJECT
+DOMAIN-SUFFIX,gomakego.com,REJECT
+DOMAIN-SUFFIX,authoritativepaulbasic.com,REJECT
 猫字
 # 京东极光快手广告屏蔽
 DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT  
