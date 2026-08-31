@@ -17,8 +17,6 @@ DOMAIN-SUFFIX,iconcardinal.com,REJECT
 DOMAIN-SUFFIX,js.wpadmngr.com,REJECT
 # 海盗
 # 猫字幕
-#IP-CIDR,139.45.195.12/32,Reject
-汇总外部域名：
 DOMAIN-SUFFIX,llvpn.com,REJECT
 DOMAIN-SUFFIX,gomakego.com,REJECT
 DOMAIN-SUFFIX,authoritativepaulbasic.com,REJECT
