@@ -1,3 +1,4 @@
+
 # 猫字幕
 DOMAIN-SUFFIX,abscloud.org,REJECT
 DOMAIN-SUFFIX,authoritativepaulbasic.com,REJECT
@@ -7,3 +8,4 @@ DOMAIN-SUFFIX,gomakego.com,REJECT
 DOMAIN-SUFFIX,adukwai.com,REJECT
 # bt4gprx
 DOMAIN-SUFFIX,straitsveiler.com,REJECT
+DOMAIN-SUFFIX,cloudfront.net,REJECT
